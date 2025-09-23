@@ -5,12 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "preview": "vite preview",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
   },
+  "homepage": "https://parve.github.io/<repo-name>",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
     "bootstrap": "^5.3.8",
