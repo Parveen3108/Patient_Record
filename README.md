@@ -1,12 +1,24 @@
-# React + Vite
+Jarurat Care – Patient Record Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Patient Record Management System built with React (frontend) and JSON Server (for mock backend API).
+This app allows you to view, add, and manage patient records in a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📋 View list of patients with Name, Age, and Contact
+🔍 Search patients by name
+👀 View detailed patient information
+➕ Add new patient records
+⚡ Simple Create mock JSON API
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+React.js – Frontend UI
+JSON Server – Mock backend API
+Bootstrap / tailwind CSS – Styling
+
+<img width="657" height="507" alt="image" src="https://github.com/user-attachments/assets/3944f73e-4dd6-41d5-9813-8406274a85ce" />
+
+
+link -:  https://parveen3108.github.io/Patient_Record/
